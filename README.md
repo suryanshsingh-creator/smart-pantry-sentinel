@@ -1,4 +1,4 @@
-# smart-pantry-sentine
+# smart-pantry-sentinel
 # Smart Pantry & Expiry Alert System
 
 A lightweight, CLI-based automated inventory tracker and perishable alert system built in pure Java. The system optimizes grocery shelf-life tracking using Min-Heap priority scheduling, concurrent file-backed persistence, and a background sentinel daemon checking for imminent spoilage.
