@@ -25,5 +25,5 @@ A lightweight, CLI-based automated inventory tracker and perishable alert system
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/smart-pantry-sentinel.git
+   git clone https://github.com/suryanshsingh-creator/smart-pantry-sentinel
    cd smart-pantry-sentinel
